@@ -1,0 +1,13 @@
+D:\Documents\Desktop\myProject\myProject\bin\Debug\myProject.exe.config
+D:\Documents\Desktop\myProject\myProject\bin\Debug\myProject.exe
+D:\Documents\Desktop\myProject\myProject\bin\Debug\myProject.pdb
+D:\Documents\Desktop\myProject\myProject\obj\Debug\myProject.csprojResolveAssemblyReference.cache
+D:\Documents\Desktop\myProject\myProject\obj\Debug\MainWindow.baml
+D:\Documents\Desktop\myProject\myProject\obj\Debug\MainWindow.g.cs
+D:\Documents\Desktop\myProject\myProject\obj\Debug\App.g.cs
+D:\Documents\Desktop\myProject\myProject\obj\Debug\myProject_MarkupCompile.cache
+D:\Documents\Desktop\myProject\myProject\obj\Debug\myProject.g.resources
+D:\Documents\Desktop\myProject\myProject\obj\Debug\myProject.Properties.Resources.resources
+D:\Documents\Desktop\myProject\myProject\obj\Debug\myProject.csproj.GenerateResource.Cache
+D:\Documents\Desktop\myProject\myProject\obj\Debug\myProject.exe
+D:\Documents\Desktop\myProject\myProject\obj\Debug\myProject.pdb

@@ -1,0 +1,25 @@
+﻿<Window x:Class="myProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Medical Image Analysis" Height="768" Width="1024">
+    <Grid>
+        <Button Content="Upload image" HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Width="160" Click="Button_Click"/>
+        <Button Content="Upload a set of 5 images" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" Width="160" Click="Button_Click_1"/>
+        <Button Content="Show analysis" HorizontalAlignment="Left" Margin="10,680,0,0" VerticalAlignment="Top" Width="160" Click="Button_Click_2"/>
+        <Image Margin="235,10,50,274" Name="imgPhoto"
+        Stretch="Fill" />
+        <Image Margin="223,34,506,513" x:Name="imgPhoto_1"
+        	Stretch="Fill" />
+        <Image Margin="648,34,81,513" x:Name="imgPhoto_2"
+        	Stretch="Fill" />
+        <Image Margin="10,273,719,274" x:Name="imgPhoto_3"
+        	Stretch="Fill" />
+        <Image Margin="375,273,354,274" x:Name="imgPhoto_4"
+        	Stretch="Fill" />
+        <Image Margin="719,273,10,274" x:Name="imgPhoto_5"
+        	Stretch="Fill" />
+        <TextBox HorizontalAlignment="Left" Height="176" Margin="429,526,0,0" x:Name="textbox1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="528" Visibility="Hidden"/>
+
+
+    </Grid>
+</Window>
